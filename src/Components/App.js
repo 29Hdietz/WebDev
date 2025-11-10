@@ -29,7 +29,7 @@ const App = () => {
 
     <Counter incrementBy ={2} buttonColor = {'red'}/>
 
-    <Paragraph link = {'https://github.com/'}/>
+    <Paragraph link = {'https://github.com/29Hdietz/WebDev/tree/main/src'}/>
 
   </div>
   )
