@@ -1,0 +1,28 @@
+.wrapper {
+    margin: auto;
+    outline: solid 1px white;
+    width: 75%;
+    background-color: rgb(53, 49, 54);
+    margin-top: 20px;
+}
+
+
+.countButton {
+      padding: 5px;
+      color: aliceblue; 
+}
+
+.countDisplay {
+    background-color: rgb(53, 49, 54);
+    font-size: 1.5rem;
+    padding: 5px;
+}
+
+h2
+{
+    background-color: rgb(53, 49, 54);
+    color:rgb(217, 214, 219);
+    padding: 5px;
+    margin: 5px;
+}
+

@@ -1,0 +1,32 @@
+.ParagraphDiv
+{
+    margin: auto;
+    outline: solid 1px white;
+    width: 95%;
+    background-color: rgb(53, 49, 54);
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.ParagraphDiv h2
+{
+    margin: auto;
+    font-size: 1.4rem;
+}
+
+.ParagraphDiv p
+{
+    margin: auto;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.ParagraphDiv a
+{
+    margin: auto;
+    font-size: 1.2rem;
+    padding: 10px;
+    background-color: rgb(53, 49, 54);
+    color: rgb(183, 84, 207);
+}
+

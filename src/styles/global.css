@@ -1,0 +1,11 @@
+*{
+    font-size: 1rem;
+    color:rgb(214, 217, 219);
+    background-color: rgb(32, 30, 32);
+}
+
+h1  
+{
+     font-size: 1.5rem;
+     margin-bottom: 20px;
+}

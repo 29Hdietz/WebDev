@@ -1,0 +1,52 @@
+
+li{
+    width: 66%;
+    padding: 5px;
+    margin: auto;
+    margin-top: 10px;
+    border: solid 1px;
+    background-color: rgb(53, 49, 54);
+    color:rgb(214, 217, 219);
+    display: flex; 
+    align-items: center;
+    gap: 33%;
+} 
+.searhBarDiv
+{
+    background-color: rgb(53, 49, 54);
+    color:rgb(214, 217, 219);
+    border: solid 1px;
+}
+ul
+{
+   background-color: rgb(32, 30, 32);
+   margin: 0px;
+   
+}
+
+.productListing{
+     background-color: rgb(53, 49, 54);
+    color:rgb(214, 217, 219);
+    width: 66%;
+    
+}
+
+img{
+ width: 80px;
+    height: 80px;
+    object-fit:cover;
+}
+strong
+{
+    background-color: rgb(53, 49, 54);
+    color:rgb(214, 217, 219)
+}
+p{
+    background-color: rgb(53, 49, 54);
+    color:rgb(214, 217, 219)
+}
+input{
+    margin: 10px;
+    padding: 5px;
+}
+
